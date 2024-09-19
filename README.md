@@ -1,1 +1,1 @@
-# blog-frontend-author
+# Blog Editor
